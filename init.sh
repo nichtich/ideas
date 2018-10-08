@@ -17,4 +17,4 @@ echo "installed $GHI_VERSION"
 
 git config --global ghi.pager cat
 git config --global ghi.token > /dev/null \
-    || echo "run 'ghi auth' for authentification!"
+    || echo "run 'ghi config --auth <username>' for authentification!"
