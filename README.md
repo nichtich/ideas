@@ -11,6 +11,10 @@ This repository is linked to [a GitHub issue tracker](https://github.com/nichtic
 * Add and/or comment on issues
 * Browse [labels](https://github.com/nichtich/ideas/labels)
 
+## Installation
+
+* Optionally run `init.sh` to install [ghi](https://github.com/drazisil/ghi) to `~/bin/ghi` for editing GitHub issues from command line.
+
 ## License
 
 Ideas can't be copyrighted. Neither can ideas in this collection be patented because they are already published. For further clarification I [dedicate all ideas to the public domain](https://creativecommons.org/publicdomain/zero/1.0/).
